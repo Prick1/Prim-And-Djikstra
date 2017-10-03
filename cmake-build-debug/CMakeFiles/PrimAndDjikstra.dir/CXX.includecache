@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenderson/CLionProjects/PrimAndDjikstra/graph.cpp
+graph.h
+/home/wenderson/CLionProjects/PrimAndDjikstra/graph.h
+
+/home/wenderson/CLionProjects/PrimAndDjikstra/graph.h
+fstream
+-
+iostream
+-
+iomanip
+-
+minheap.tcc
+/home/wenderson/CLionProjects/PrimAndDjikstra/minheap.tcc
+climits
+-
+
+/home/wenderson/CLionProjects/PrimAndDjikstra/main.cpp
+graph.h
+/home/wenderson/CLionProjects/PrimAndDjikstra/graph.h
+chrono
+-
+
+/home/wenderson/CLionProjects/PrimAndDjikstra/minheap.tcc
+vector
+-
+climits
+-
+

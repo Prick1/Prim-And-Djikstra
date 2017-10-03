@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="PrimAndDjikstra" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="PrimAndDjikstra">
+         <Option output="/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/PrimAndDjikstra" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/i386-linux-gnu" />
+            <Add directory="/usr/include/i386-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 PrimAndDjikstra" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="PrimAndDjikstra/fast">
+         <Option output="/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/PrimAndDjikstra" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/i386-linux-gnu" />
+            <Add directory="/usr/include/i386-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/i686-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 PrimAndDjikstra/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/wenderson/CLionProjects/PrimAndDjikstra/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/wenderson/CLionProjects/PrimAndDjikstra/graph.cpp">
+         <Option target="PrimAndDjikstra"/>
+      </Unit>
+      <Unit filename="/home/wenderson/CLionProjects/PrimAndDjikstra/graph.h">
+         <Option target="PrimAndDjikstra"/>
+      </Unit>
+      <Unit filename="/home/wenderson/CLionProjects/PrimAndDjikstra/main.cpp">
+         <Option target="PrimAndDjikstra"/>
+      </Unit>
+      <Unit filename="/home/wenderson/CLionProjects/PrimAndDjikstra/minheap.tcc">
+         <Option target="PrimAndDjikstra"/>
+      </Unit>
+      <Unit filename="/home/wenderson/CLionProjects/PrimAndDjikstra/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

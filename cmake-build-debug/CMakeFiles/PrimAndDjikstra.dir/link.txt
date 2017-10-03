@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/PrimAndDjikstra.dir/main.cpp.o CMakeFiles/PrimAndDjikstra.dir/graph.cpp.o  -o PrimAndDjikstra 
